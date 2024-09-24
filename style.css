@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin:0;
+    padding:0;
     box-sizing: border-box;
     font-family: sans-serif;
 }
@@ -163,7 +163,7 @@ section .main .button a{
 section .main .button i{
     color: white;
     margin-left: 5px;
-    transition: 0.3s;
+    transition: 0.30s;
 }
 
 section .main .button:hover i{
